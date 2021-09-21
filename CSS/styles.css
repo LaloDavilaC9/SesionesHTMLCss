@@ -1,0 +1,62 @@
+#menu{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+    color: white;
+
+    
+}
+#menu img{ 
+   width: 200px;
+   position: relative;
+   
+}
+th{
+    font-size: 25px;
+    border-color:teal;
+    border-width: 5px;
+}
+th:hover{
+    background-color: coral;
+    transform: scale(1.5);
+}
+
+a{
+    color: white;
+
+}
+body{
+    background-image: url("../images/hotel_hero_BG.jpeg");
+    background-size: 100%;
+    
+}
+h1{
+ color: black;
+ text-align: center;
+ font-size: 40px;
+ font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+table{
+    box-align: right;
+    margin-left: 550px;
+    margin-top: -40px;
+}
+iframe{
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+    height: 500px;
+}
+form{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    
+
+}
+input[type="submit"]:hover{
+    background-color: darkcyan;
+}
